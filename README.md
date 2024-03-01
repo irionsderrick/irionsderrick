@@ -2,7 +2,7 @@
 ## Welcome to my GitHub profile! 
   
 ### 📫 How to reach me:
-  -  [linkedin.com/in/jerson-martinez-](https://www.linkedin.com/in/irionsderrickdev/)
+  -  [linkedin.com/in/irionsderrickdev-](https://www.linkedin.com/in/irionsderrickdev/)
   -  irions.derrick.dev@gmail.com
 
 ### 🛠 Languages and Tools:
